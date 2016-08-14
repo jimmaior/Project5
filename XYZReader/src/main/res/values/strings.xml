@@ -8,4 +8,6 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+
+    <string name="shared_elem_transition">Transition Example</string>
 </resources>
